@@ -27,3 +27,12 @@ where:
 ## Dataset Description
 
 ![Image](Corporacion_Favorita_Data.jpg)
+
+The dataset consists of 6 different files.
+
++ **Train**: The training data, comprising time series of features store_nbr, family, and onpromotion as well as the target sales
++ **Test**: The test data, having the same features as the training data
++ **Transactions**: Contains date, store_nbr and transaction made on that specific date
++ **Stores**: Store metadata, including city, state, type, and cluster
++ **Holidays Events**: Holidays and Events, with metadata
++ **Oil**: Daily oil price which includes values during both the train and test data timeframes. (Ecuador is an oil-dependent country and its economic health is highly vulnerable to shocks in oil prices)
