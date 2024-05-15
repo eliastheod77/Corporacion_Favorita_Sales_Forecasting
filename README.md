@@ -23,3 +23,7 @@ where:
 + y^i - is the predicted value of the target for instance (i)
 + yi - is the actual value of the target for instance (i)
 + log - is the natural logarithm
+
+## Dataset Description
+
+![Image](Corporacion_Favorita_Data.jpg)
