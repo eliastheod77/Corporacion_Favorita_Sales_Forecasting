@@ -15,7 +15,7 @@ Competition Link: [Kaggle Competition Time Series Forecasting](https://www.kaggl
 ## Evaluation Metric
 The evaluation metric is the Normalized Weighted Root Mean Squared Logarithmic Error (NWRMSLE).
 
-![Image](Evaluation_Metric.jpg)
+![Image](Images/Evaluation_Metric.jpg)
 
 
 where:
@@ -26,7 +26,7 @@ where:
 
 ## Dataset Description
 
-![Image](Corporacion_Favorita_Data_1.jpg)
+![Image](Images/Corporacion_Favorita_Data_1.jpg)
 
 The dataset consists of 6 different files.
 
