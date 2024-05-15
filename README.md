@@ -26,7 +26,7 @@ where:
 
 ## Dataset Description
 
-![Image](Corporacion_Favorita_Data.jpg)
+![Image](Corporacion_Favorita_Data_1.jpg)
 
 The dataset consists of 6 different files.
 
