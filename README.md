@@ -1,6 +1,6 @@
 # Corporacion Favorita Sales Forecasting
 ## Project Introduction
-This is a Kaggle competition, where we'll use **Time Series Forecasting** to forecast store sales on data from Corporación Favorita, a large Ecuadorian based grocery retailer.
+This is a Kaggle competition, where we use **Time Series Forecasting** to forecast store sales on data from Corporación Favorita, a large Ecuadorian based grocery retailer.
 A key factor in a company’s retail performance is the ability to properly estimate sales and manage inventories. 
 The main challegnge, as with any retailer, is predicting the sales and inventory requirements for each location to avoid overstocking and understocking, allowing the business to offer the greatest customer service while reducing losses and guaranteeing the store’s sustainability.
 
