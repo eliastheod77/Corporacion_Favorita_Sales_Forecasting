@@ -36,3 +36,15 @@ The dataset consists of 6 different files.
 + **Stores**: Store metadata, including city, state, type, and cluster
 + **Holidays Events**: Holidays and Events, with metadata
 + **Oil**: Daily oil price which includes values during both the train and test data timeframes. (Ecuador is an oil-dependent country and its economic health is highly vulnerable to shocks in oil prices)
+
+## Exploratory Data Analysis (EDA)
+In this project, we conducted Exploratory Data Analysis (EDA) on the dataset provided by Corporación Favorita for their sales forecasting Kaggle competition. 
+
+The goal of this EDA was to gain insights into the data, understand product sales patterns and identify potential features for building a robust sales forecasting model.
+
+**Dataset overview**
+| Dataset Name  | Description |
+| ------------- | ------------- |
+| Train Data  | Historical sales data with various features  |
+| Additional Data  | Holiday Events, oil price, store details, transcactions  |
+
