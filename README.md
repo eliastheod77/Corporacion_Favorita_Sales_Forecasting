@@ -53,7 +53,14 @@ The **Sales data** from the train dataset spanning the period from 2013-01-01 to
 
 ![Image](Images/Total_Sales.jpg)
 
-Sales Analysis by Day of the Week
+**Sales Analysis by Day of the Week**
+
 We analyzed the sales data to understand the distribution of sales across different days of the week. The results indicate that sales tend to peak during the weekend, particularly on Saturdays and Sundays.
 Sales volumes show a noticeable increase during Saturdays and Sundays compared to weekdays. This suggests that customers are more active and tend to make larger purchases during the weekend, possibly due to factors such as increased leisure time, family outings, or shopping trips.
 
+![Image](Images/Total_Sales_Day_Week.jpg)
+
+**Average Sales Per Store**
+We conducted an analysis of sales data to determine the average sales performance across different stores. We did it by combining the train data and the store details data for the total available period. The findings provide insights into the revenue generation capabilities of each store and help identify potential areas for improvement or optimization. We see 
+
+![Image](Images/Store_Perfomance_Average_Sales.jpg)
