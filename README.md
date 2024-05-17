@@ -61,6 +61,7 @@ Sales volumes show a noticeable increase during Saturdays and Sundays compared t
 ![Image](Images/Total_Sales_Day_Week.jpg)
 
 **Average Sales Per Store**
-We conducted an analysis of sales data to determine the average sales performance across different stores. We did it by combining the train data and the store details data for the total available period. The findings provide insights into the revenue generation capabilities of each store and help identify potential areas for improvement or optimization. We see 
+
+We conducted an analysis of sales data to determine the average sales performance across different stores. We did it by combining the train data and the store details data, for the total available period. The findings provide insights into the revenue generation capabilities of each store and help identify potential areas for improvement or optimization. We identified Store 44 as the top-performing store throughout the available time period based on its consistently high sales performance.
 
 ![Image](Images/Store_Perfomance_Average_Sales.jpg)
