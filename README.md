@@ -48,3 +48,12 @@ The goal of this EDA was to gain insights into the data, understand product sale
 | Train Data  | Historical sales data with various features  |
 | Additional Data  | Holiday Events, oil price, store details, transcactions  |
 
+Corporacion Favorita uses data visualization to detect large scale trends in their sales and to spot the effect of unexpected behaviour caused by special events. 
+The **Sales data** from the train dataset spanning the period from 2013-01-01 to 2017-08-15,	indicates a consistent trend of sales growth over time. By analyzing the sales figures and using visualizations such as  matplotlib across multiple years, it becomes evident that company's performance has exhibited an upward trajectory, reflecting increasing demand.
+
+![Image](Images/Total_Sales.jpg)
+
+Sales Analysis by Day of the Week
+We analyzed the sales data to understand the distribution of sales across different days of the week. The results indicate that sales tend to peak during the weekend, particularly on Saturdays and Sundays.
+Sales volumes show a noticeable increase during Saturdays and Sundays compared to weekdays. This suggests that customers are more active and tend to make larger purchases during the weekend, possibly due to factors such as increased leisure time, family outings, or shopping trips.
+
