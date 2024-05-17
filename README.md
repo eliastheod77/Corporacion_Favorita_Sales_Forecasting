@@ -65,3 +65,9 @@ Sales volumes show a noticeable increase during Saturdays and Sundays compared t
 We conducted an analysis of sales data to determine the average sales performance across different stores. We did it by combining the train data and the store details data, for the total available period. The findings provide insights into the revenue generation capabilities of each store and help identify potential areas for improvement or optimization. We identified Store 44 as the top-performing store throughout the available time period based on its consistently high sales performance.
 
 ![Image](Images/Store_Perfomance_Average_Sales.jpg)
+
+**Top 10 Product Families based on Sales**
+
+With the groundwork laid, the analysis focused on identifying the family product categories with the highest sales. The results of this visualization underscore the top-performing family product categories in terms of sales. Notably, categories such as ‘Grocery,’ ‘Beverages,’ ‘Produce,’ ‘Cleaning,’ ‘Daily,’ ‘Dairy,’ and ‘Bakery’ consistently achieve higher average sales compared to others. These categories play a pivotal role in contributing to the overall store’s sales revenue.
+
+![Image](Images/top_10_Product_Families.jpg)
