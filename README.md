@@ -78,7 +78,10 @@ In the same manner we can plot the share of the every product family to total sa
 ![Image](Images/Share_Sales.jpg)
 
 **Promotions and Sales**
-Promotions play a crucial role in influencing sales at Corporación Favorita retail stores. The analysis reveals a significant increase in sales when products are on promotion. By examining the sales data, it is evident that promotional activities result in higher consumer purchases, thereby boosting overall sales figures. By looking at the product families, we can identify which product families are most affected by promotions. The darker shades on product families - produce, grocery I, beverages, cleaning, indicate that promotions have a significant impact on sales for those product families.
+
+Promotions play a crucial role in influencing sales at Corporación Favorita retail stores. The analysis reveals a significant increase in sales when products are on promotion. By looking at the product families, we can identify which product families are most affected by promotions. The darker shades on product families - produce, grocery I, beverages, cleaning, indicate that promotions have a significant impact on sales for those product families.
+
+![Image](Images/Promotion_Sales.jpg)
 
 **Relationship Between Sales and Oil Prices**
 
