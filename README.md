@@ -71,3 +71,16 @@ We conducted an analysis of sales data to determine the average sales performanc
 With the groundwork laid, the analysis focused on identifying the family product categories with the highest sales. The results of this visualization underscore the top-performing family product categories in terms of sales. Notably, categories such as ‘Grocery,’ ‘Beverages,’ ‘Produce,’ ‘Cleaning,’ ‘Daily,’ ‘Dairy,’ and ‘Bakery’ consistently achieve higher average sales compared to others. These categories play a pivotal role in contributing to the overall store’s sales revenue.
 
 ![Image](Images/top_10_Product_Families.jpg)
+
+
+In the same manner we can plot the share of the every product family to total sales for the total available period. We can derive that more than 31% of the total sales comes from the grocery product family, making it a value information for our analysis.
+![Image](Images/%Share_Sales.jpg)
+
+
+**Relationship Between Sales and Oil Prices**
+
+The analysis indicates a significant relationship between the evolution of sales at Corporación Favorita and the fluctuations in oil prices. Ecuador, being heavily dependent on oil exports, experiences a direct impact on its economy due to changes in oil prices. This dependency is reflected in consumer behavior and, consequently, in the sales trends observed at Corporación Favorita.
+
+The visualization below demonstrates this relationship allowing for a clearer comparison over the period from 2013 to 2017. As the price of oil fluctuates, corresponding changes in sales patterns are evident, highlighting the sensitivity of the retail sector to macroeconomic factors.
+
+![Image](Images/Sales_Oil_Price.jpg)
