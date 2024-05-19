@@ -74,6 +74,7 @@ With the groundwork laid, the analysis focused on identifying the family product
 
 
 In the same manner we can plot the share of the every product family to total sales for the total available period. We can derive that more than 31% of the total sales comes from the grocery product family, making it a value information for our analysis.
+
 ![Image](Images/%Share_Sales.jpg)
 
 
