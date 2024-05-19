@@ -77,7 +77,6 @@ In the same manner we can plot the share of the every product family to total sa
 
 ![Image](Images/%Share_Sales.jpg)
 
-
 **Relationship Between Sales and Oil Prices**
 
 The analysis indicates a significant relationship between the evolution of sales at Corporación Favorita and the fluctuations in oil prices. Ecuador, being heavily dependent on oil exports, experiences a direct impact on its economy due to changes in oil prices. This dependency is reflected in consumer behavior and, consequently, in the sales trends observed at Corporación Favorita.
