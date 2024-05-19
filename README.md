@@ -77,6 +77,9 @@ In the same manner we can plot the share of the every product family to total sa
 
 ![Image](Images/Share_Sales.jpg)
 
+**Promotions and Sales**
+Promotions play a crucial role in influencing sales at Corporación Favorita retail stores. The analysis reveals a significant increase in sales when products are on promotion. By examining the sales data, it is evident that promotional activities result in higher consumer purchases, thereby boosting overall sales figures. By looking at the product families, we can identify which product families are most affected by promotions. The darker shades on product families - produce, grocery I, beverages, cleaning, indicate that promotions have a significant impact on sales for those product families.
+
 **Relationship Between Sales and Oil Prices**
 
 The analysis indicates a significant relationship between the evolution of sales at Corporación Favorita and the fluctuations in oil prices. Ecuador, being heavily dependent on oil exports, experiences a direct impact on its economy due to changes in oil prices. This dependency is reflected in consumer behavior and, consequently, in the sales trends observed at Corporación Favorita.
