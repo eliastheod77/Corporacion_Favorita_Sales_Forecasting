@@ -53,6 +53,7 @@ The **Sales data** from the train dataset spanning the period from 2013-01-01 to
 
 ![Image](Images/Total_Sales.jpg)
 
+
 **Sales Analysis by Day of the Week**
 
 We analyzed the sales data to understand the distribution of sales across different days of the week. The results indicate that sales tend to peak during the weekend, particularly on Saturdays and Sundays.
@@ -60,11 +61,13 @@ Sales volumes show a noticeable increase during Saturdays and Sundays compared t
 
 ![Image](Images/Total_Sales_Day_Week.jpg)
 
+
 **Average Sales Per Store**
 
 We conducted an analysis of sales data to determine the average sales performance across different stores. We did it by combining the train data and the store details data, for the total available period. The findings provide insights into the revenue generation capabilities of each store and help identify potential areas for improvement or optimization. We identified Store 44 as the top-performing store throughout the available time period based on its consistently high sales performance.
 
 ![Image](Images/Store_Perfomance_Average_Sales.jpg)
+
 
 **Top 10 Product Families based on Sales**
 
@@ -77,11 +80,13 @@ In the same manner we can plot the share of the every product family to total sa
 
 ![Image](Images/Share_Sales.jpg)
 
+
 **Promotions and Sales**
 
 Promotions play a crucial role in influencing sales at Corporación Favorita retail stores. The analysis reveals a significant increase in sales when products are on promotion. By looking at the product families, we can identify which product families are most affected by promotions. The darker shades on product families - produce, grocery I, beverages, cleaning, indicate that promotions have a significant impact on sales for those product families.
 
 ![Image](Images/Promotion_Sales.jpg)
+
 
 **Relationship Between Sales and Oil Prices**
 
@@ -90,3 +95,13 @@ The analysis indicates a significant relationship between the evolution of sales
 The visualization below demonstrates this relationship allowing for a clearer comparison over the period from 2013 to 2017. As the price of oil fluctuates, corresponding changes in sales patterns are evident, highlighting the sensitivity of the retail sector to macroeconomic factors.
 
 ![Image](Images/Sales_Oil_Price.jpg)
+
+
+
+
+**% of share on sales per State and City**
+
+It is interesting to ratiocinate the findings of the following graph and indeed what we observe from the graph makes total sense. The cities with the most stores are Guayaquil and Quito, since Guayaquil is the largest region in Ecuador and Quito is the capital of Ecuador.Therefore the state of Pichincha with the capital city of Quito, share the largest amount of sales for Corporación Favorita.
+
+
+![Image](Images/Total_Sales_State_City.jpg)
