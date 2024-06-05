@@ -59,7 +59,7 @@ Our analysis of the sales data from Corporación Favorita's stores reveals a sig
 
 To quantify this trend, we grouped the sales data by year and calculated the total sales for each year. The results show a consistent year-over-year increase in total sales, indicating a robust growth trajectory for the company during this period.
 
-
+![Image](Images/Total_Sales_Year.jpg)
 
 **Sales Analysis by Day of the Week**
 
