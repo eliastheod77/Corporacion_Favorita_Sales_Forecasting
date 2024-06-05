@@ -54,6 +54,13 @@ The **Sales data** from the train dataset spanning the period from 2013-01-01 to
 ![Image](Images/Total_Sales.jpg)
 
 
+**Sales Analysis by Year**
+Our analysis of the sales data from Corporación Favorita's stores reveals a significant upward trend in sales over the period from 2013 to 2017. The data was extracted from the train dataframe, which contains sales records along with other relevant features.
+
+To quantify this trend, we grouped the sales data by year and calculated the total sales for each year. The results show a consistent year-over-year increase in total sales, indicating a robust growth trajectory for the company during this period.
+
+
+
 **Sales Analysis by Day of the Week**
 
 We analyzed the sales data to understand the distribution of sales across different days of the week. The results indicate that sales tend to peak during the weekend, particularly on Saturdays and Sundays.
