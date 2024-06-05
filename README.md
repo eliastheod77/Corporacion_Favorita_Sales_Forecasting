@@ -55,11 +55,19 @@ The **Sales data** from the train dataset spanning the period from 2013-01-01 to
 
 
 **Sales Analysis by Year**
+
 Our analysis of the sales data from Corporación Favorita's stores reveals a significant upward trend in sales over the period from 2013 to 2017. The data was extracted from the train dataframe, which contains sales records along with other relevant features.
 
-To quantify this trend, we grouped the sales data by year and calculated the total sales for each year. The results show a consistent year-over-year increase in total sales, indicating a robust growth trajectory for the company during this period.
+To quantify this trend, we grouped the sales data by year and calculated the total sales for each year. The results show a consistent year-over-year increase in total sales, indicating a robust growth trajectory for the company during this period. We have to stress that the available data for 2017, goes up to 08/2017.
 
-![Image](Images/Total_Sales_Year.jpg)
+![Image](Images/total_sales_year.jpg)
+
+
+**Average Sales by Month**
+
+Our analysis of the sales data from Corporación Favorita's stores on a monthly basis, reveals a significant upward trend in sales over the period from 2013 to 2017. The data was extracted from the train dataframe, which contains sales records along with other relevant features.
+
+![Image](Images/Total_Sales_Day_Week.jpg)
 
 **Sales Analysis by Day of the Week**
 
@@ -69,11 +77,13 @@ Sales volumes show a noticeable increase during Saturdays and Sundays compared t
 ![Image](Images/Total_Sales_Day_Week.jpg)
 
 
+
 **Average Sales Per Store**
 
 We conducted an analysis of sales data to determine the average sales performance across different stores. We did it by combining the train data and the store details data, for the total available period. The findings provide insights into the revenue generation capabilities of each store and help identify potential areas for improvement or optimization. We identified Store 44 as the top-performing store throughout the available time period based on its consistently high sales performance.
 
 ![Image](Images/Store_Perfomance_Average_Sales.jpg)
+
 
 
 **Top 10 Product Families based on Sales**
@@ -88,11 +98,13 @@ In the same manner we can plot the share of the every product family to total sa
 ![Image](Images/Share_Sales.jpg)
 
 
+
 **Promotions and Sales**
 
 Promotions play a crucial role in influencing sales at Corporación Favorita retail stores. The analysis reveals a significant increase in sales when products are on promotion. By looking at the product families, we can identify which product families are most affected by promotions. The darker shades on product families - produce, grocery I, beverages, cleaning, indicate that promotions have a significant impact on sales for those product families.
 
 ![Image](Images/Promotion_Sales.jpg)
+
 
 
 **Relationship Between Sales and Oil Prices**
@@ -102,6 +114,7 @@ The analysis indicates a significant relationship between the evolution of sales
 The visualization below demonstrates this relationship allowing for a clearer comparison over the period from 2013 to 2017. As the price of oil fluctuates, corresponding changes in sales patterns are evident, highlighting the sensitivity of the retail sector to macroeconomic factors.
 
 ![Image](Images/Sales_Oil_Price.jpg)
+
 
 
 
