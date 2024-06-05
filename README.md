@@ -65,9 +65,9 @@ To quantify this trend, we grouped the sales data by year and calculated the tot
 
 **Average Sales by Month**
 
-Our analysis of the sales data from Corporación Favorita's stores on a monthly basis, reveals a significant upward trend in sales over the period from 2013 to 2017. The data was extracted from the train dataframe, which contains sales records along with other relevant features.
+Our analysis of the sales data from Corporación Favorita's stores on a monthly basis, reveals a significant utrend in sales in the months December, January, July amd March, over the period from 2013 to 2017 and in particular July and December have the highest unit sales compared to other months.
 
-![Image](Images/Total_Sales_Day_Week.jpg)
+![Image](Images/Average_Monthly_Sales.jpg)
 
 **Sales Analysis by Day of the Week**
 
